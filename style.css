@@ -1,0 +1,17 @@
+*{
+    font-family: 'Gayathri', sans-serif;
+}
+body{
+    text-align:center;
+    margin: 0;
+    background-color: aliceblue;
+}
+p{
+    margin:0.8em  3em;
+}
+img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
